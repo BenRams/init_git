@@ -11,6 +11,7 @@ class lesto
     protected:
 
     private:
+        int m_inter;
 };
 
 #endif // LESTO_H
