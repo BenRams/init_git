@@ -9,7 +9,8 @@ int main()
     {
         cout << "Hello world!" << endl;
     }
-    cout<< "lol";
-    cout<< "new";
+    cout<< "lol"<<endl;
+    cin>> number;
+    cout<<number;
     return 0;
 }
