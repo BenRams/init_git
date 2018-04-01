@@ -9,5 +9,6 @@ int main()
     {
         cout << "Hello world!" << endl;
     }
+    cout<< "lol";
     return 0;
 }
